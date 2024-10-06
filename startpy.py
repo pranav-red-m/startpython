@@ -57,7 +57,7 @@ mcq = {
         'Below average'
     ],
     'Option3': [
-        'I learnt my preferred for a few weeks', 
+        'I learnt my preferred programming language for a few weeks', 
         'Every time 1 or 2', 
         'A decent amount', 
         'CSV files', 
